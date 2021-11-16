@@ -1,7 +1,6 @@
 ## Tech Stack 
 <div style="display: flex">
   
-  <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="100" height="120" />
 
   <div >
     <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> 
@@ -9,6 +8,8 @@
     <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   </div>
+  
+  <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="220" height="240" />
   
 </div>
 
