@@ -4,7 +4,7 @@
   
   <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="220" height="240" />
   </div>
-  <div style="display: flex;flex-wrap: wrap">
+  <div style="display: flex;flex-wrap: wrap; width:200px;">
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> 
    <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> 
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
