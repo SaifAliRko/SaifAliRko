@@ -1,6 +1,8 @@
 ## Tech Stack 
 <div style="display: flex">
   <div style="height:50px , width:50px" >
+    
+    
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 </div>  
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> 
