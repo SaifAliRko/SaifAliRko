@@ -2,9 +2,9 @@
 <div style="display: flex">
   <div style="height:50px , width:50px" >
     
-    <p>
-    <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="220" height="240" />
-    </p>
+<p>
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" width="220" height="240" />
+</p>
     
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 </div>  
@@ -15,6 +15,7 @@
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   </div>
 </div>
+    <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="220" height="240" />
 
 
 
