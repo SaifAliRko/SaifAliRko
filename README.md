@@ -2,6 +2,9 @@
 <div style="display: flex">
   <div style="height:50px , width:50px" >
     
+    <p>
+    <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="220" height="240" />
+</p>
     
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 </div>  
