@@ -4,7 +4,7 @@
     
     <p>
     <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="220" height="240" />
-</p>
+    </p>
     
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 </div>  
